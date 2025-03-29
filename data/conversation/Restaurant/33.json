@@ -1,0 +1,87 @@
+{
+    "conversation": [
+      {
+        "kanji": "いらっしゃいませ！お一人ですか？",
+        "romaji": "Irasshaimase! O hitori desu ka?",
+        "english": "Welcome! Are you alone?"
+      },
+      {
+        "kanji": "はい、そうです。おすすめは何ですか？",
+        "romaji": "Hai, sou desu. Osusume wa nan desu ka?",
+        "english": "Yes, I am. What do you recommend?"
+      },
+      {
+        "kanji": "今日は寿司が新鮮です！",
+        "romaji": "Kyou wa sushi ga shinsen desu!",
+        "english": "Today's sushi is fresh!"
+      },
+      {
+        "kanji": "じゃあ、寿司を一つお願いします。",
+        "romaji": "Jaa, sushi o hitotsu onegaishimasu.",
+        "english": "Well then, I'll have one sushi, please."
+      },
+      {
+        "kanji": "かしこまりました！お飲み物はいかがですか？",
+        "romaji": "Kashikomarimashita! Onomimono wa ikagadesu ka?",
+        "english": "Understood! Would you like something to drink?"
+      }
+    ],
+    "vocabulary": [
+      {
+        "kanji": "寿司",
+        "romaji": "sushi",
+        "english": "sushi",
+        "examples": [
+          "寿司が好きです。 (Sushi ga suki desu.) - I like sushi.",
+          "寿司を食べに行きましょう！ (Sushi o tabe ni ikimashou!) - Let's go eat sushi!",
+          "この寿司はとても美味しいです。 (Kono sushi wa totemo oishii desu.) - This sushi is very delicious."
+        ]
+      },
+      {
+        "kanji": "新鮮",
+        "romaji": "shinsen",
+        "english": "fresh",
+        "examples": [
+          "新鮮な野菜を買いました。 (Shinsen na yasai o kaimashita.) - I bought fresh vegetables.",
+          "今日は新鮮な魚があります。 (Kyou wa shinsen na sakana ga arimasu.) - There is fresh fish today.",
+          "新鮮な果物が好きです。 (Shinsen na kudamono ga suki desu.) - I like fresh fruit."
+        ]
+      },
+      {
+        "kanji": "飲み物",
+        "romaji": "onomimono",
+        "english": "drinks",
+        "examples": [
+          "飲み物を頼みました。 (Onomimono o tanomimashita.) - I ordered a drink.",
+          "何か飲み物がありますか？ (Nanika onomimono ga arimasu ka?) - Do you have any drinks?",
+          "私はビールを飲みます。 (Watashi wa biiru o nomimasu.) - I will drink beer."
+        ]
+      }
+    ],
+    "grammar": [
+      {
+        "grammar": "ます-form for polite requests",
+        "examples": [
+          "寿司を一つお願いします。 (Sushi o hitotsu onegaishimasu.) - Please give me one sushi.",
+          "水をください。 (Mizu o kudasai.) - Please give me water.",
+          "手伝ってください。 (Tetsudatte kudasai.) - Please help me."
+        ]
+      },
+      {
+        "grammar": "I want to do ~ (な + たい)",
+        "examples": [
+          "寿司を食べたいです。 (Sushi o tabetai desu.) - I want to eat sushi.",
+          "映画を見たいです。 (Eiga o mitai desu.) - I want to watch a movie.",
+          "旅行に行きたいです。 (Ryokou ni ikitai desu.) - I want to go on a trip."
+        ]
+      },
+      {
+        "grammar": "This ~ is ~ (この + noun + は + adjective)",
+        "examples": [
+          "この店は安いです。 (Kono mise wa yasui desu.) - This shop is cheap.",
+          "この料理は美味しいです。 (Kono ryouri wa oishii desu.) - This dish is delicious.",
+          "この本は面白いです。 (Kono hon wa omoshiroi desu.) - This book is interesting."
+        ]
+      }
+    ]
+  }

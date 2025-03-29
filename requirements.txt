@@ -1,0 +1,4 @@
+streamlit==1.43.2
+openai==1.68.2
+whisper==1.1.10
+opopenpyxl==3.1.5

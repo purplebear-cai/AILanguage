@@ -1,0 +1,153 @@
+{
+    "conversation": [
+        {
+            "kanji": "いらっしゃいませ！何をお探しですか？",
+            "romaji": "Irasshaimase! Nani o osagashi desu ka?",
+            "english": "Welcome! What are you looking for?"
+        },
+        {
+            "kanji": "このシャツはどうですか？",
+            "romaji": "Kono shatsu wa dō desu ka?",
+            "english": "How about this shirt?"
+        },
+        {
+            "kanji": "いいですね！他の色はありますか？",
+            "romaji": "Ii desu ne! Hoka no iro wa arimasu ka?",
+            "english": "That's nice! Do you have other colors?"
+        },
+        {
+            "kanji": "はい、赤と青があります。どちらがいいですか？",
+            "romaji": "Hai, aka to ao ga arimasu. Dochira ga ii desu ka?",
+            "english": "Yes, we have red and blue. Which one is better?"
+        },
+        {
+            "kanji": "赤をください。値段はいくらですか？",
+            "romaji": "Aka o kudasai. Nedan wa ikura desu ka?",
+            "english": "Please give me the red one. How much is it?"
+        }
+    ],
+    "vocabulary": [
+        {
+            "kanji": "シャツ",
+            "romaji": "shatsu",
+            "english": "shirt",
+            "examples": [
+                "このシャツはとても可愛いです。",
+                "Kono shatsu wa totemo kawaii desu.",
+                "This shirt is very cute.",
+                "私は新しいシャツが欲しいです。",
+                "Watashi wa atarashii shatsu ga hoshii desu.",
+                "I want a new shirt."
+            ]
+        },
+        {
+            "kanji": "色",
+            "romaji": "iro",
+            "english": "color",
+            "examples": [
+                "私の好きな色は青です。",
+                "Watashi no sukina iro wa ao desu.",
+                "My favorite color is blue.",
+                "色々な色のペンがあります。",
+                "Iroiro na iro no pen ga arimasu.",
+                "There are various colors of pens."
+            ]
+        },
+        {
+            "kanji": "値段",
+            "romaji": "nedan",
+            "english": "price",
+            "examples": [
+                "この商品の値段はいくらですか？",
+                "Kono shōhin no nedan wa ikura desu ka?",
+                "What is the price of this product?",
+                "値段が高すぎます。",
+                "Nedan ga takasugimasu.",
+                "The price is too high."
+            ]
+        },
+        {
+            "kanji": "赤",
+            "romaji": "aka",
+            "english": "red",
+            "examples": [
+                "彼女は赤いドレスを着ています。",
+                "Kanojo wa akai doresu o kiteimasu.",
+                "She is wearing a red dress.",
+                "赤は元気な色です。",
+                "Aka wa genki na iro desu.",
+                "Red is a lively color."
+            ]
+        },
+        {
+            "kanji": "青",
+            "romaji": "ao",
+            "english": "blue",
+            "examples": [
+                "空は青いです。",
+                "Sora wa aoi desu.",
+                "The sky is blue.",
+                "青い車が好きです。",
+                "Aoi kuruma ga suki desu.",
+                "I like blue cars."
+            ]
+        }
+    ],
+    "grammar": [
+        {
+            "grammar": "なに + を + 探す (nani o sagasu)",
+            "examples": [
+                "何を探していますか？",
+                "Nani o sagashite imasu ka?",
+                "What are you searching for?",
+                "私は本を探しています。",
+                "Watashi wa hon o sagashiteimasu.",
+                "I am looking for a book."
+            ]
+        },
+        {
+            "grammar": "いいです (ii desu)",
+            "examples": [
+                "この靴はいいです。",
+                "Kono kutsu wa ii desu.",
+                "These shoes are good.",
+                "この映画はとてもいいです。",
+                "Kono eiga wa totemo ii desu.",
+                "This movie is very good."
+            ]
+        },
+        {
+            "grammar": "ください (kudasai)",
+            "examples": [
+                "コーヒーをください。",
+                "Kōhī o kudasai.",
+                "Please give me coffee.",
+                "この本をください。",
+                "Kono hon o kudasai.",
+                "Please give me this book."
+            ]
+        },
+        {
+            "grammar": "いくらですか (ikura desu ka)",
+            "examples": [
+                "これはいくらですか？",
+                "Kore wa ikura desu ka?",
+                "How much is this?",
+                "このリンゴはいくらですか？",
+                "Kono ringo wa ikura desu ka?",
+                "How much is this apple?"
+            ]
+        },
+        {
+            "grammar": "と (to)",
+            "examples": [
+                "私は果物と野菜が好きです。",
+                "Watashi wa kudamono to yasai ga suki desu.",
+                "I like fruits and vegetables.",
+                "猫と犬を飼っています。",
+                "Neko to inu o katteimasu.",
+                "I have a cat and a dog."
+            ]
+        }
+    ]
+}

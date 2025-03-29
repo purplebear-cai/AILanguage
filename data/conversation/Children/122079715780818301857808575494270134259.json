@@ -1,0 +1,90 @@
+{
+    "conversation": [
+        {
+            "kanji": "こんにちは！遊びに来てくれてありがとう！",
+            "romaji": "Konnichiwa! Asobi ni kite kurete arigatou!",
+            "english": "Hello! Thank you for coming to play!"
+        },
+        {
+            "kanji": "こんにちは！楽しいね！何をする？",
+            "romaji": "Konnichiwa! Tanoshii ne! Nani o suru?",
+            "english": "Hello! This is fun! What should we do?"
+        },
+        {
+            "kanji": "ボールで遊びたい！カーリングをしよう！",
+            "romaji": "Booru de asobitai! Kaalingu o shiyou!",
+            "english": "I want to play with the ball! Let's curl!"
+        },
+        {
+            "kanji": "いいね！じゃあ、始めよう！",
+            "romaji": "Ii ne! Jaa, hajimeyou!",
+            "english": "Sounds good! Well then, let's start!"
+        },
+        {
+            "kanji": "わーい！楽しい時間だね！",
+            "romaji": "Waaai! Tanoshii jikan da ne!",
+            "english": "Yay! This is a fun time!"
+        }
+    ],
+    "vocabulary": [
+        {
+            "kanji": "遊び",
+            "romaji": "asobi",
+            "english": "play",
+            "examples": [
+                "友達と遊びます。 (Tomodachi to asobimasu.) - I will play with my friends.",
+                "公園で遊びました。 (Kouen de asobimashita.) - I played in the park."
+            ]
+        },
+        {
+            "kanji": "楽しい",
+            "romaji": "tanoshii",
+            "english": "fun",
+            "examples": [
+                "あなたと遊ぶのは楽しいです。 (Anata to asobu no wa tanoshii desu.) - It is fun to play with you.",
+                "このゲームはとても楽しい！ (Kono geemu wa totemo tanoshii!) - This game is very fun!"
+            ]
+        },
+        {
+            "kanji": "時間",
+            "romaji": "jikan",
+            "english": "time",
+            "examples": [
+                "楽しい時間を過ごしました。 (Tanoshii jikan o sugoshimashita.) - I spent a fun time.",
+                "もう時間です。 (Mou jikan desu.) - It is time already."
+            ]
+        },
+        {
+            "kanji": "始める",
+            "romaji": "hajimeru",
+            "english": "to start",
+            "examples": [
+                "ゲームを始めます。 (Geemu o hajimemasu.) - I will start the game.",
+                "勉強を始めましょう。 (Benkyou o hajimemashou.) - Let's start studying."
+            ]
+        }
+    ],
+    "grammar": [
+        {
+            "grammar": "～たい",
+            "examples": [
+                "遊びたいです。 (Asobitai desu.) - I want to play.",
+                "行きたいです。 (Ikitai desu.) - I want to go."
+            ]
+        },
+        {
+            "grammar": "～ましょう",
+            "examples": [
+                "遊びましょう。 (Asobimashou.) - Let's play.",
+                "見ましょう。 (Mimashou.) - Let's watch."
+            ]
+        },
+        {
+            "grammar": "とても",
+            "examples": [
+                "これはとても楽しいです。 (Kore wa totemo tanoshii desu.) - This is very fun.",
+                "彼はとても優しいです。 (Kare wa totemo yasashii desu.) - He is very kind."
+            ]
+        }
+    ]
+}

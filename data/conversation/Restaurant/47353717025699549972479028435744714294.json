@@ -1,0 +1,102 @@
+{
+    "conversation": [
+      {
+        "kanji": "こんにちは、メニューを見せてください。",
+        "romaji": "Konnichiwa, menyuu o misete kudasai.",
+        "english": "Hello, please show me the menu."
+      },
+      {
+        "kanji": "はい、どうぞ。今日のおすすめは寿司です。",
+        "romaji": "Hai, douzo. Kyou no osusume wa sushi desu.",
+        "english": "Here you go. Today's recommendation is sushi."
+      },
+      {
+        "kanji": "寿司は好きですが、アレルギーがあります。エビは大丈夫ですか？",
+        "romaji": "Sushi wa suki desu ga, arerugii ga arimasu. Ebi wa daijoubu desu ka?",
+        "english": "I like sushi, but I have an allergy. Is shrimp okay?"
+      },
+      {
+        "kanji": "エビは使っていません。マグロとサーモンがあります。",
+        "romaji": "Ebi wa tsukatte imasen. Maguro to saamon ga arimasu.",
+        "english": "We don’t use shrimp. We have tuna and salmon."
+      },
+      {
+        "kanji": "それなら、マグロの寿司をお願いします。",
+        "romaji": "Sore nara, maguro no sushi o onegaishimasu.",
+        "english": "Then, I’ll have the tuna sushi, please."
+      }
+    ],
+    "vocabulary": [
+      {
+        "kanji": "寿司",
+        "romaji": "sushi",
+        "english": "sushi",
+        "examples": [
+          "寿司を食べたいです。 (Sushi o tabetai desu.) - I want to eat sushi.",
+          "寿司は美味しいです。 (Sushi wa oishii desu.) - Sushi is delicious."
+        ]
+      },
+      {
+        "kanji": "アレルギー",
+        "romaji": "arerugii",
+        "english": "allergy",
+        "examples": [
+          "アレルギーがあります。 (Arerugii ga arimasu.) - I have an allergy.",
+          "卵アレルギーです。 (Tamago arerugii desu.) - I have an egg allergy."
+        ]
+      },
+      {
+        "kanji": "エビ",
+        "romaji": "ebi",
+        "english": "shrimp",
+        "examples": [
+          "エビが好きです。 (Ebi ga suki desu.) - I like shrimp.",
+          "エビは食べられません。 (Ebi wa taberaremasen.) - I can’t eat shrimp."
+        ]
+      },
+      {
+        "kanji": "マグロ",
+        "romaji": "maguro",
+        "english": "tuna",
+        "examples": [
+          "マグロの寿司を注文しました。 (Maguro no sushi o chuumon shimashita.) - I ordered tuna sushi.",
+          "マグロは新鮮です。 (Maguro wa shinsen desu.) - The tuna is fresh."
+        ]
+      },
+      {
+        "kanji": "サーモン",
+        "romaji": "saamon",
+        "english": "salmon",
+        "examples": [
+          "サーモンが美味しいです。 (Saamon ga oishii desu.) - Salmon is delicious.",
+          "サーモンの寿司を食べたいです。 (Saamon no sushi o tabetai desu.) - I want to eat salmon sushi."
+        ]
+      }
+    ],
+    "grammar": [
+      {
+        "grammar": "～が好きです (～ga suki desu)",
+        "explanation": "Used to express liking something. The particle 'が' marks the object of liking.",
+        "examples": [
+          "寿司が好きです。 (Sushi ga suki desu.) - I like sushi.",
+          "コーヒーが好きです。 (Koohii ga suki desu.) - I like coffee."
+        ]
+      },
+      {
+        "grammar": "～があります (～ga arimasu)",
+        "explanation": "Used to indicate the existence of something or to express having something (e.g., allergies).",
+        "examples": [
+          "アレルギーがあります。 (Arerugii ga arimasu.) - I have an allergy.",
+          "時間があります。 (Jikan ga arimasu.) - I have time."
+        ]
+      },
+      {
+        "grammar": "～をお願いします (～o onegaishimasu)",
+        "explanation": "A polite way to request something. The particle 'を' marks the object being requested.",
+        "examples": [
+          "水をお願いします。 (Mizu o onegaishimasu.) - Water, please.",
+          "メニューをお願いします。 (Menyuu o onegaishimasu.) - The menu, please."
+        ]
+      }
+    ]
+  }

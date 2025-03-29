@@ -1,0 +1,94 @@
+{
+    "conversation": [
+        {
+            "kanji": "いらっしゃいませ！何をお探しですか？",
+            "romaji": "Irasshaimase! Nani o osagashi desu ka?",
+            "english": "Welcome! What are you looking for?"
+        },
+        {
+            "kanji": "あの、靴を探しています。",
+            "romaji": "Ano, kutsu o sagashiteimasu.",
+            "english": "Um, I'm looking for shoes."
+        },
+        {
+            "kanji": "こちらに新しい靴があります。サイズはありますか？",
+            "romaji": "Kochira ni atarashii kutsu ga arimasu. Saizu wa arimasu ka?",
+            "english": "We have new shoes over here. Do you have a size?"
+        },
+        {
+            "kanji": "はい、24センチです。",
+            "romaji": "Hai, nijuu yon senchi desu.",
+            "english": "Yes, it's 24 centimeters."
+        },
+        {
+            "kanji": "こちらが24センチの靴です。どうぞ試着してみてください。",
+            "romaji": "Kochira ga nijuu yon senchi no kutsu desu. Douzo shichaku shite mite kudasai.",
+            "english": "Here are the 24-centimeter shoes. Please try them on."
+        }
+    ],
+    "vocabulary": [
+        {
+            "kanji": "靴",
+            "romaji": "kutsu",
+            "english": "shoes",
+            "examples": [
+                "この靴はとても快適です。",
+                "Kono kutsu wa totemo kaiteki desu.",
+                "These shoes are very comfortable.",
+                "新しい靴を買いたいです。",
+                "Atarashii kutsu o kaitai desu.",
+                "I want to buy new shoes."
+            ]
+        },
+        {
+            "kanji": "サイズ",
+            "romaji": "saizu",
+            "english": "size",
+            "examples": [
+                "このサイズはどうですか？",
+                "Kono saizu wa dou desu ka?",
+                "How about this size?",
+                "彼女は大きいサイズが必要です。",
+                "Kanojo wa ookii saizu ga hitsuyou desu.",
+                "She needs a larger size."
+            ]
+        },
+        {
+            "kanji": "試着",
+            "romaji": "shichaku",
+            "english": "try on",
+            "examples": [
+                "服を試着するのが好きです。",
+                "Fuku o shichaku suru no ga suki desu.",
+                "I like trying on clothes.",
+                "試着室はあちらです。",
+                "Shichaku-shitsu wa achira desu.",
+                "The fitting room is over there."
+            ]
+        }
+    ],
+    "grammar": [
+        {
+            "grammar": "VerbてForm + みてください (verb + mite kudasai)",
+            "examples": [
+                "このドレスを着てみてください。",
+                "Kono doresu o kite mite kudasai.",
+                "Please try on this dress.",
+                "この靴を試着してみてください。",
+                "Kono kutsu o shichaku shite mite kudasai.",
+                "Please try on these shoes."
+            ]
+        },
+        {
+            "grammar": "Nounは + ですか (noun wa + desu ka)",
+            "examples": [
+                "これは美味しいですか？",
+                "Kore wa oishii desu ka?",
+                "Is this delicious?",
+                "あなたのサイズは何ですか？",
+                "Anata no saizu wa nan desu ka?",
+                "What is your size?"
+            ]
+        }
+    ]
+}

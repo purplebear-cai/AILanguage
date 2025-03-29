@@ -1,0 +1,82 @@
+{
+    "conversation": [
+      {
+        "kanji": "ママ、おやつはある？",
+        "romaji": "Mama, oyatsu wa aru?",
+        "english": "Mom, is there a snack?"
+      },
+      {
+        "kanji": "はい、クッキーがあるよ。食べる？",
+        "romaji": "Hai, kukkii ga aru yo. Taberu?",
+        "english": "Yes, there are cookies. Do you want some?"
+      },
+      {
+        "kanji": "うん！クッキー大好き！",
+        "romaji": "Un! Kukkii daisuki!",
+        "english": "Yes! I love cookies!"
+      },
+      {
+        "kanji": "じゃあ、お茶も一緒に飲もうね。",
+        "romaji": "Jaa, ocha mo issho ni nomou ne.",
+        "english": "Then, let's drink tea together, okay?"
+      },
+      {
+        "kanji": "うん！ありがとう、ママ！",
+        "romaji": "Un! Arigatou, Mama!",
+        "english": "Yes! Thank you, Mom!"
+      }
+    ],
+    "vocabulary": [
+      {
+        "kanji": "おやつ",
+        "romaji": "oyatsu",
+        "english": "snack",
+        "examples": [
+          "おやつの時間だよ！ (Oyatsu no jikan da yo!) - It's snack time!",
+          "おやつを食べてもいい？ (Oyatsu o tabete mo ii?) - Can I eat a snack?"
+        ]
+      },
+      {
+        "kanji": "大好き",
+        "romaji": "daisuki",
+        "english": "love (something very much)",
+        "examples": [
+          "私は犬が大好き！ (Watashi wa inu ga daisuki!) - I love dogs!",
+          "この映画が大好きです。 (Kono eiga ga daisuki desu.) - I love this movie."
+        ]
+      },
+      {
+        "kanji": "一緒に",
+        "romaji": "issho ni",
+        "english": "together",
+        "examples": [
+          "一緒に遊ぼう！ (Issho ni asobou!) - Let's play together!",
+          "友達と一緒に映画を見た。 (Tomodachi to issho ni eiga o mita.) - I watched a movie with my friends."
+        ]
+      }
+    ],
+    "grammar": [
+      {
+        "grammar": "〜も (mo) - also, too",
+        "examples": [
+          "私も行く！ (Watashi mo iku!) - I will go too!",
+          "お茶も飲みたい。 (Ocha mo nomitai.) - I also want to drink tea."
+        ]
+      },
+      {
+        "grammar": "〜ましょう/〜よう (mashou/you) - let's (do something together)",
+        "examples": [
+          "一緒に遊びましょう！ (Issho ni asobimashou!) - Let's play together!",
+          "帰ろう！ (Kaerou!) - Let's go home!"
+        ]
+      },
+      {
+        "grammar": "〜ね (ne) - seeking agreement or softening the tone",
+        "examples": [
+          "美味しいね！ (Oishii ne!) - It's delicious, isn't it?",
+          "楽しいね！ (Tanoshii ne!) - This is fun, right?"
+        ]
+      }
+    ]
+  }
+  

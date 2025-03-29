@@ -1,0 +1,131 @@
+{
+    "conversation": [
+      {
+        "kanji": "こんにちは！元気ですか？",
+        "romaji": "Konnichiwa! Genki desu ka?",
+        "english": "Hello! How are you?"
+      },
+      {
+        "kanji": "こんにちは！私は元気です。あなたは？",
+        "romaji": "Konnichiwa! Watashi wa genki desu. Anata wa?",
+        "english": "Hello! I am fine. How about you?"
+      },
+      {
+        "kanji": "私も元気です！今日は遊びに行きませんか？",
+        "romaji": "Watashi mo genki desu! Kyou wa asobi ni ikimasen ka?",
+        "english": "I am fine too! Shall we go play today?"
+      },
+      {
+        "kanji": "いいですね！どこに行きたいですか？",
+        "romaji": "Ii desu ne! Doko ni ikitai desu ka?",
+        "english": "That sounds good! Where do you want to go?"
+      },
+      {
+        "kanji": "公園に行きたいです！",
+        "romaji": "Kouen ni ikitai desu!",
+        "english": "I want to go to the park!"
+      }
+    ],
+    "vocabulary": [
+      {
+        "kanji": "元気",
+        "romaji": "genki",
+        "english": "fine, healthy",
+        "examples": [
+          "彼はとても元気です。",
+          "Kare wa totemo genki desu.",
+          "He is very fine.",
+          "あなたは元気ですか？",
+          "Anata wa genki desu ka?",
+          "Are you fine?"
+        ]
+      },
+      {
+        "kanji": "遊び",
+        "romaji": "asobi",
+        "english": "play",
+        "examples": [
+          "公園で遊びましょう。",
+          "Kouen de asobimashou.",
+          "Let's play at the park.",
+          "友達と遊ぶのが好きです。",
+          "Tomodachi to asobu no ga suki desu.",
+          "I like to play with my friends."
+        ]
+      },
+      {
+        "kanji": "行く",
+        "romaji": "iku",
+        "english": "to go",
+        "examples": [
+          "映画を見に行きます。",
+          "Eiga o mi ni ikimasu.",
+          "I will go to watch a movie.",
+          "明日、学校に行きます。",
+          "Ashita, gakkou ni ikimasu.",
+          "I will go to school tomorrow."
+        ]
+      },
+      {
+        "kanji": "公園",
+        "romaji": "kouen",
+        "english": "park",
+        "examples": [
+          "公園は楽しいです。",
+          "Kouen wa tanoshii desu.",
+          "The park is fun.",
+          "毎週末に公園に行きます。",
+          "Maishuumatsu ni kouen ni ikimasu.",
+          "I go to the park every weekend."
+        ]
+      },
+      {
+        "kanji": "どこ",
+        "romaji": "doko",
+        "english": "where",
+        "examples": [
+          "どこに行きますか？",
+          "Doko ni ikimasu ka?",
+          "Where are you going?",
+          "次の旅行はどこですか？",
+          "Tsugi no ryokou wa doko desu ka?",
+          "Where is the next trip?"
+        ]
+      }
+    ],
+    "grammar": [
+      {
+        "grammar": "ですか (desu ka)",
+        "examples": [
+          "あなたは学生ですか？",
+          "Anata wa gakusei desu ka?",
+          "Are you a student?",
+          "これは何ですか？",
+          "Kore wa nan desu ka?",
+          "What is this?"
+        ]
+      },
+      {
+        "grammar": "いきたい (ikitai)",
+        "examples": [
+          "映画を見に行きたいです。",
+          "Eiga o mi ni ikitai desu.",
+          "I want to go to watch a movie.",
+          "友達と遊びに行きたいです。",
+          "Tomodachi to asobi ni ikitai desu.",
+          "I want to go play with my friends."
+        ]
+      },
+      {
+        "grammar": "はい (hai) / いいえ (iie)",
+        "examples": [
+          "はい、元気です。",
+          "Hai, genki desu.",
+          "Yes, I'm fine.",
+          "いいえ、行きたくない。",
+          "Iie, ikitakunai.",
+          "No, I don't want to go."
+        ]
+      }
+    ]
+  }

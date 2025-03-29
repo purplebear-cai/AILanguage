@@ -1,0 +1,96 @@
+{
+    "conversation": [
+      {
+        "kanji": "いらっしゃいませ！お席はどちらですか？",
+        "romaji": "Irasshaimase! Oseki wa dochira desu ka?",
+        "english": "Welcome! Where would you like to sit?"
+      },
+      {
+        "kanji": "窓際の席をお願いします。",
+        "romaji": "Mado-gawa no seki o onegaishimasu.",
+        "english": "I would like a seat by the window, please."
+      },
+      {
+        "kanji": "メニューをどうぞ。今日は何がおすすめですか？",
+        "romaji": "Menyū o dōzo. Kyō wa nani ga osusume desu ka?",
+        "english": "Here’s the menu. What do you recommend today?"
+      },
+      {
+        "kanji": "寿司が一番おすすめです。",
+        "romaji": "Sushi ga ichiban osusume desu.",
+        "english": "Sushi is the most recommended."
+      },
+      {
+        "kanji": "じゃあ、寿司を二人分お願いします。",
+        "romaji": "Jā, sushi o futari-bun onegaishimasu.",
+        "english": "Then, please make it two servings of sushi."
+      }
+    ],
+    "vocabulary": [
+      {
+        "kanji": "いらっしゃいませ",
+        "romaji": "irasshaimase",
+        "english": "Welcome",
+        "examples": [
+          "店に入ると、「いらっしゃいませ」と言われました。",
+          "When I entered the shop, I was greeted with 'Welcome.'"
+        ]
+      },
+      {
+        "kanji": "おすすめ",
+        "romaji": "osusume",
+        "english": "recommendation",
+        "examples": [
+          "彼女のおすすめのレストランはとても人気です。",
+          "Her recommended restaurant is very popular."
+        ]
+      },
+      {
+        "kanji": "寿司",
+        "romaji": "sushi",
+        "english": "sushi",
+        "examples": [
+          "日本では寿司がとても有名です。",
+          "Sushi is very famous in Japan."
+        ]
+      },
+      {
+        "kanji": "席",
+        "romaji": "seki",
+        "english": "seat",
+        "examples": [
+          "この席は空いていますか？",
+          "Is this seat available?"
+        ]
+      }
+    ],
+    "grammar": [
+      {
+        "grammar": "〜をお願いします",
+        "examples": [
+          "お水をお願いします。",
+          "Please give me water.",
+          "ビールをお願いします。",
+          "Please give me beer."
+        ]
+      },
+      {
+        "grammar": "〜の席",
+        "examples": [
+          "窓際の席が好きです。",
+          "I like a seat by the window.",
+          "静かな席を予約しました。",
+          "I reserved a quiet seat."
+        ]
+      },
+      {
+        "grammar": "何がおすすめですか？",
+        "examples": [
+          "この店で何がおすすめですか？",
+          "What do you recommend in this shop?",
+          "旅行先で何がおすすめですか？",
+          "What do you recommend at the travel destination?"
+        ]
+      }
+    ]
+  }
